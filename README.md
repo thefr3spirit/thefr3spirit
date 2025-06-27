@@ -25,6 +25,19 @@
 
 ---
 
+## 📊 GitHub Stats & Achievements
+
+![Bill's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thefr3spirit&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thefr3spirit&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thefr3spirit&theme=radical&hide_border=true)
+
+### 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=thefr3spirit&theme=radical&no-frame=true&row=1&column=6)
+
+---
+
 ## 📫 Connect With Me
 
 <a href="https://www.linkedin.com/in/bill-edwin-ogwal/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
